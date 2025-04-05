@@ -81,7 +81,7 @@ ul.menu {
 
 /*=============================Banner=============================*/
 .banner {
-    background-image: url("../assets/cover-image.jpg");
+    background-image: url("./assets/cover-image.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
